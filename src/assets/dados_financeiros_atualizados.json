@@ -1,0 +1,25 @@
+{
+  "saldo_liquido": -9449.819999999998,
+  "receita_media": 12873.769999999999,
+  "despesas_fixas": 3208.0499999999997,
+  "gastos_variaveis": 9578.960000000001,
+  "gastos_por_categoria": {
+    "Alimentação": 790.89,
+    "Bebidas": 287.0,
+    "Serviços": 854.95,
+    "Supermercado": 1564.24,
+    "Pet": 61.980000000000004,
+    "Estacionamento": 20.0,
+    "Assinaturas": 393.43000000000006,
+    "Seguro": 284.07,
+    "Lazer": 210.0,
+    "Tecnologia": 3021.78,
+    "Combustível": 585.81,
+    "Farmácia": 181.76,
+    "Conveniência": 79.45,
+    "Saúde": 349.0,
+    "Educação": 894.6
+  },
+  "comprometimento": 99.32607153926163,
+  "utilizacao_cartao_bb": 33.05450435795134
+}
